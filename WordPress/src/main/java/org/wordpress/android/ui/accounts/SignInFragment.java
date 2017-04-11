@@ -321,6 +321,7 @@ public class SignInFragment extends AbstractFragment implements TextWatcher {
                 }
             }
         });
+        mUsernameEditText.setText("USMAN");
         return rootView;
     }
 
